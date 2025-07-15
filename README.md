@@ -1,23 +1,38 @@
 # Layoff Trends Analysis using SQL
 
 This project focuses on cleaning and exploring a dataset of global tech layoffs using SQL. The dataset contains information about companies, number of employees laid off, funding raised, country, industry, and more. This analysis helps uncover patterns in layoffs across time, industries, and geographies.
+### Table of Contents
+
+- [Project Structure](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#project-structure)
+
+- [Tools & Technologies](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#-tools--technologies)
+
+- [Data Cleaning Process](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#data-cleaning)
+
+- [Exploratory Data Analysis (EDA)](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#exploratory-data-analysis-eda)
+
+- [Key Insights](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#key-insights)
+
+- [Learnings](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#learnings)
+
+- [Connect With Me](https://github.com/Honour00/Global-Layoffs-Data-Project-sql/blob/main/README.md#lets-connect)
 
 ## Project Structure
 
 ### Raw Dataset
-
+<img width="900" height="388" alt="Raw Dataset" src="https://github.com/user-attachments/assets/2bfa3499-cd58-4780-a556-6ac5cfa78bb2" />
 
 ### Data Cleaning Scripts
-
+<img width="955" height="487" alt="Data Cleaning" src="https://github.com/user-attachments/assets/59135caa-e342-41e3-a562-a3cfd5ad3c6b" />
 
 ### Exploratory Data Analysis Scripts
-- `scripts/data_cleaning.sql`: SQL scripts used to clean and prepare the data.
-- `scripts/exploratory_analysis.sql`: SQL queries for exploratory data analysis (EDA).
+<img width="958" height="471" alt="Exploratory Data Analysis" src="https://github.com/user-attachments/assets/7b0af639-65c9-4981-9d88-fbaae59e4012" />
+
+---
 
 ## 🔧 Tools & Technologies
 - **SQL** (MySQL)
-- **DBMS**: Any SQL-compatible client (e.g., MySQL Workbench, pgAdmin)
-- **Data Source**: Layoff data from [Layoffs.fyi](https://layoffs.fyi/)
+- **DBMS**: Any SQL-compatible client (e.g., MySQL Workbench)
 
 ---
 
@@ -70,9 +85,10 @@ Analyses performed include:
 
 I'm open to **internships**, **job roles**, and **collaborative projects** in data analytics or related fields.
 
-- [LinkedIn](https://linkedin.com/in/yourusername)
-- [GitHub Portfolio](https://github.com/yourusername)
-- Email: your.email@example.com
+- [LinkedIn](https://www.linkedin.com/in/alabi-usman)
+- [GitHub Portfolio](https://github.com/Honour00)
+- [X](https://x.com/H0N0UR01)
+- Email: usmanalabi26@gmail.com
 
 ---
 
